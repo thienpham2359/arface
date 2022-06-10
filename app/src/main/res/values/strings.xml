@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AR Face</string>
+    <string name="makeup">Face Makeup</string>
+    <string name="glasses">Face Glasses</string>
+    <string name="regions">Face Quiz</string>
+    <string name="face_landmarks">Face landmarks</string>
+    <string name="quiz_title">What animal are you?</string>
+</resources>
